@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.me-2{
+    padding-right: 49px;
+    width: auto;
+}
+.offcanvas.show:not(.hiding), .offcanvas.showing {
+    transform: none;
+    width: auto;
+    
+}
+.extra{
+    position: absolute;
+    right: 15px;
+    background-color: transparent;
+    border: none;
+}
+.extra:hover{
+    background-color: transparent;
+    border: none;
+}
+.mex{
+    margin-right: 7px;
+    margin-bottom: 5px;
+}
+.box1{
+    background: #444648;
+    margin-top: 13px;
+    color: #272829;
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-link {
+    font-family: 'Poppins', sans-serif;
+}
+.dropdown-item{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.offcanvas-title{
+    font-family: 'Poppins', sans-serif;
+
+}
+.sidegood:hover{
+    background-color: black;
+    border-radius: 5px;
+}
+.offcanvas-backdrop.show {
+    opacity: 0.1;
+}
